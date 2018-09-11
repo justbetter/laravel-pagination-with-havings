@@ -1,6 +1,6 @@
 # Laravel Pagination with Havings
 
-This Laravel module makes it possible to use Laravel's pagination with queries which are using havings. Without it you probably get "Column not found" MySQL errors. For more information see:
+This Laravel package makes it possible to use Laravel's pagination with queries which are using havings. Without it you probably get "Column not found" MySQL errors. For more information see:
 
 - https://github.com/laravel/framework/issues/3105
 - https://github.com/laravel/framework/pull/5515
