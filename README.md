@@ -18,11 +18,11 @@ Just use the trait on the model.
 ### Example
 
 ```
-use JustBetter\PaginationWithHavings\PaginationWithHavingsTrait;
+use JustBetter\PaginationWithHavings\PaginationWithHavings;
 
 class MyModel extends Eloquent
 {
-    use PaginationWithHavingsTrait;
+    use PaginationWithHavings;
 
     ...
 }

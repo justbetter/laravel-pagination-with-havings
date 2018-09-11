@@ -2,7 +2,7 @@
 
 namespace JustBetter\PaginationWithHavings;
 
-trait PaginationWithHavingsTrait
+trait PaginationWithHavings
 {
     protected function newBaseQueryBuilder()
     {

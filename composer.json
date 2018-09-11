@@ -12,7 +12,7 @@
         [
             "pagination",
             "having",
-            "laravel",
+            "laravel"
         ],
     "license": "MIT",
     "require": {
